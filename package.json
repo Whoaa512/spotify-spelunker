@@ -6,7 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.21",
-    "moment": "^2.29.2",
+    "moment": "^2.29.4",
     "node-http-xhr": "^1.3.4",
     "spotify-web-api-js": "^1.2.0"
   },
